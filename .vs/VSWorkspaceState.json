@@ -2,9 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\Patrones.Command",
-    "\\Patrones.Command.Core",
-    "\\Patrones.Command\\Properties"
+    "\\Patrones.Command.Core"
   ],
-  "SelectedNode": "\\Patrones.Command.Core\\OrdenCommand.cs",
+  "SelectedNode": "\\TD.Patrones.Command.sln",
   "PreviewInSolutionExplorer": false
 }
